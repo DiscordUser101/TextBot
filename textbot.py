@@ -13,6 +13,7 @@ async def on_ready():
     print("Name: {}".format(client.user.name))
     print("ID: {}".format(client.user.id))
 
+
 @client.event
 async def on_message(message):
     if message.content.upper().startswith('!SAY'):
