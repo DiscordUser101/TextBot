@@ -1,2 +1,2 @@
 # TextBot
-A bot that you can play games with. In development
+A bot that you can play text games with. In development
